@@ -1,6 +1,6 @@
 # 淘寶消費者行為資料
 ### 資料來源
-* [User Behavior Data from Taobao for Recommendation](https://tianchi.aliyun.com/dataset/dataDetail?dataId=649&userId=1 "link")   
+* [User Behavior Data from Taobao for Recommendation](https://tianchi.aliyun.com/dataset/dataDetail?dataId=649&userId=1)   
 原始有一億筆左右的資料，這裡取500萬筆資料做分析
 
    
@@ -21,4 +21,5 @@
 | fav   |   收藏商品 |
    
 ### 利用python做資料處理後進到Tableau做資料視覺化的呈現
+* [Tableau連結](https://public.tableau.com/profile/ting4945#!/vizhome/30226/sheet4)
 ![image](https://github.com/YiTing-Wu/Taobao_data/blob/main/%E6%B7%98%E5%AF%B6%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.png)
